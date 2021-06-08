@@ -6,9 +6,6 @@
 
 /*
  * @author Mark Zhang
- * ICS3U1 Final Project
- * Title: Pac Man
- * 2021/05/29
  */
 import csta.ibm.pong.Game;
 import java.util.*;
